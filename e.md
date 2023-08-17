@@ -1,3 +1,4 @@
 # Feature E
 
-Some notes
+- Some notes
+- Updated
